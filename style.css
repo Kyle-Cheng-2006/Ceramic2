@@ -1,0 +1,139 @@
+body{
+  width: 100%;
+  margin:auto;
+  height: 100%;
+  background-color: floralwhite;
+}
+
+h1{
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size:70px;
+  border:15px double black;
+  border-radius:35px;
+  background-color:#A2C1AD;
+  width:80%;
+  margin:auto;
+}
+
+h2{
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size:50px;
+  border:15px double black;
+  border-radius:50px;
+  background-color:#A2C1AD;
+  width:60%;
+  margin:auto;
+}
+
+h3{
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size:35px;
+  width:80%;
+  margin:auto;
+  font-style:italic;
+}
+
+p{
+  font-family:'Courier New', Courier, monospace;
+  font-size:25px;
+  width:60%;
+  margin:auto;
+}
+
+li{
+  font-family:'Courier New', Courier, monospace;
+  font-size:25px;
+  width:60%;
+  margin:auto;
+}
+
+#Div1{
+  background-color:#D4DDD7;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#Div2{
+  width:100%;
+  margin:auto;
+}
+
+.Div3{
+  background-color:#D4DDD7;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width:80%;
+  border:none;
+  border-radius:35px;
+  margin:auto;
+}
+
+.Div4{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+/* .separator{
+  text-decoration: underline;
+} */
+
+table, td{
+  border:10px double black;
+  border-radius:35px;
+  background-color:#D4DDD7;
+  font-family:'Courier New', Courier, monospace;
+  font-size:25px;
+  text-align: center;
+}
+
+th{
+  font-family:'Courier New', Courier, monospace;
+  font-size:35px;
+}
+
+table{
+  width:80%;
+  margin:auto;
+}
+
+.img_link{
+  border-radius:35px;
+  transition:1s;
+  border:10px double black;
+  background-color:#D4DDD7;
+  border-radius:35px;
+}
+
+.img_link:hover{
+  transition:0.5s;
+  background: #b3d9ff;
+  border-radius:15px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+td:hover, th:hover{
+  transition:0.5s;
+  background: #b3d9ff;
+  border-radius:15px;
+}
+
+#Button{
+  text-align: center;
+  font-family:'Courier New', Courier, monospace;
+  font-size:50px;
+  border:15px double black;
+  border-radius:50px;
+  background-color:#A2C1AD;
+  width:60%;
+  margin:auto;
+}
+
+#Button:hover{
+  transition:0.5s;
+  background: #b3d9ff;
+  border-radius:15px;
+}
